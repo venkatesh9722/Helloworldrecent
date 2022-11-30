@@ -1,0 +1,10 @@
+package org.mindtree.com;
+
+public class Program {
+
+	public static void Hello()
+	{
+		String s="HELLO WORLD";
+		System.out.println("printing the message i.e"+s);
+	}
+}
